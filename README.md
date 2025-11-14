@@ -81,8 +81,8 @@ while True:
 
 client_socket.close()
 ```
-<img width="1919" height="1197" alt="image" src="https://github.com/user-attachments/assets/f1606a33-9e41-4e81-baa1-5e185e0907b4" />
-
+##output
+<img width="1919" height="1199" alt="Screenshot 2025-11-14 090758" src="https://github.com/user-attachments/assets/9aa16c88-b2c5-4d17-82d8-9e0d7277005f" />
 
 
 ## Result
