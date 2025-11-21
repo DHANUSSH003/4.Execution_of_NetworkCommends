@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-## NAME : VENKATESAN R
-## REG NO : 212224230299
+## NAME : dhanussh elango
+## REG NO : 212224040069
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -58,18 +58,25 @@ while True:
 
 ## OUTPUT
 # netstat
+<img width="1241" height="1090" alt="image" src="https://github.com/user-attachments/assets/f57978ca-17bb-415d-82ad-92e148c65f92" />
 
 # ipconfig
+<img width="1118" height="831" alt="image" src="https://github.com/user-attachments/assets/9016e5b8-be3c-40a8-90e0-2a5f0e2d8ebc" />
 
 # ping
+<img width="1124" height="555" alt="image" src="https://github.com/user-attachments/assets/159367b0-fe7c-4ac8-88ae-8bf7845e97cc" />
 
 # tracert
+<img width="1140" height="684" alt="image" src="https://github.com/user-attachments/assets/33b78a2f-e7ea-4372-8cec-ba8aa2f4bab9" />
 
 # nslookup
+<img width="1146" height="597" alt="image" src="https://github.com/user-attachments/assets/7da79808-cca2-4328-a3dc-19223a69f427" />
 
 # getmac
+<img width="1193" height="275" alt="image" src="https://github.com/user-attachments/assets/3d2937d3-c74b-4d50-a0c4-329c373cfa94" />
 
 # hostname
+<img width="1163" height="206" alt="image" src="https://github.com/user-attachments/assets/dd591041-7ed8-4af4-b504-a2708cd009a4" />
 
 
 ## OUTPUT
